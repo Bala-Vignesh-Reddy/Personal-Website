@@ -1,0 +1,69 @@
+		what is favicons?
+    ->favicons are the favourite icons for website title
+    
+    TO MAKE FAVICON?
+    -> visit favicon.cc
+    after creating it add link to index.html in href if it doesn't work then add "?v=2" at the end of the name of href
+
+HTML Div?
+    ->div is html element which help to divide the content on the website
+
+->colorhunt.co used to get the color for website.
+
+BOX MODEL OF WEBSITE STYLING?
+->padding is the space between the text and the edge
+->margin is the buffer zone which is outside the border
+
+Display Property?
+->had 4 property
+1.block: common ele are h1, p etc
+2.inline: commom ele are span, img, anchors(<a>)
+in inline ele we cannot change the width
+3.inlie-block: both block and inline mix 
+4.none:if display is none then the img will be removed 
+
+visibility : hidden
+->used for quizes to hide 
+
+
+CSS static and relative positioning
+
+rules(how things get rendered on screen)
+1.content is everything
+2. order comes from code
+3. children sit on parents
+
+position
+1.static (default)
+2. relative
+3. absolute
+4. fixed
+
+
+for centering ele we can use text-align; center;
+
+another way to center the ele, is using margin
+margin: 0 auto 0 auto;
+this can be used in specific tag
+
+font embedding 
+go to fonts.google.com
+then select all the fonts to make family
+
+
+to get images for website we can go to 
+flacticon.com
+
+for animated gif we can use
+giphy.com
+
+we can modify the font size using three methods 
+1. using px which is static
+2. using em which is not static if checks in mai n body also if their is any font size tag in that then it will add both the thing then show to you on the website
+#while using rem which helps to come over the problem of em
+3. using percentage
+
+how to wrap the text around image
+->using float property to left
+
+if we want to wrap only the heading then we can use clear property which will help not to wrap
